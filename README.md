@@ -1,4 +1,4 @@
-# wxapkg-
+# 微信小程序解包
 通过低版本微信获取小程序wxapkg后解包出源码
 
 先安装低版本微信https://github.com/tom-snow/wechat-windows-versions/releases/tag/v3.9.12.57  
