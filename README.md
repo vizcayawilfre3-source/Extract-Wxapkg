@@ -21,7 +21,7 @@ Applet/
 
 如果不知道小程序appid就在微信的设置清空缓存，再打开目标小程序，这个文件夹里面仅剩的wx开头的文件夹里面就是这个小程序的wxapkg文件  
 
-wxid（密钥）是小程序文件夹的名称，例如 C:\Users\xiaomao\Documents\WeChat Files\Appletwx8c1d34a9ecc36262，这个文件夹里面的wxapkg文件密钥就是wx8c1d34a9ecc36262  
+wxid（密钥）是小程序文件夹的名称，例如 C:\Users\xiaomao\Documents\WeChat Files\Applet\wx8c1d34a9ecc36262，这个文件夹里面的wxapkg文件密钥就是wx8c1d34a9ecc36262  
 
 解包后内容格式  
 
